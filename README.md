@@ -1,6 +1,16 @@
 - 👋 Hi, I’m @GiteRep
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web design
+- ** I know:
+-   Python
+-   CSS
+-   Javascript
+-   Typescript
+-   HTML
+-   C++
+-   Swift
+-   Node.js
+-   Scratch
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
